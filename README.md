@@ -15,6 +15,7 @@ Too lazy to download?  [Play it on jsfiddle](http://jsfiddle.net/PxpVr/16/embedd
 ## Inspiration
 
 When I was a kid I loved to play [the old Tron game](https://www.youtube.com/watch?v=ONg0rUogiEg), so when I decided to make a game to learn the canvas element, this seem fitting.
+and saw new things.
 
 ## Contributing
 
